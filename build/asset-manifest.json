@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0105dff.css",
+    "main.js": "/static/js/main.eab7abdf.js",
+    "static/media/farm6.jpg": "/static/media/farm6.f506cff548c3da3a5f16.jpg",
+    "static/media/farm17.png": "/static/media/farm17.037552cf5bbf09dd3279.png",
+    "static/media/market1.jpg": "/static/media/market1.5be0465f09c55d44516c.jpg",
+    "static/media/farm20.webp": "/static/media/farm20.0a5137e4eb2fb727a8bc.webp",
+    "static/media/farm9.jpg": "/static/media/farm9.fb10973a9f27728f9ea5.jpg",
+    "static/media/farm8.jpg": "/static/media/farm8.410cba2b19371ff674b1.jpg",
+    "static/media/farm19.webp": "/static/media/farm19.8ae7899b85ba5caa3213.webp",
+    "static/media/bar2.jpg": "/static/media/bar2.6b3afdd7df656fbd7954.jpg",
+    "static/media/bar1.jpg": "/static/media/bar1.1f266f9332aad18cd27a.jpg",
+    "static/media/insta_icon.png": "/static/media/insta_icon.cb48bd40ef751fe7bf82.png",
+    "static/media/farm15.jpg": "/static/media/farm15.90b4aecc10a9dbe6021c.jpg",
+    "static/media/farm14.jpg": "/static/media/farm14.ba3165c0b08c3d8a56a1.jpg",
+    "index.html": "/index.html",
+    "main.d0105dff.css.map": "/static/css/main.d0105dff.css.map",
+    "main.eab7abdf.js.map": "/static/js/main.eab7abdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0105dff.css",
+    "static/js/main.eab7abdf.js"
+  ]
+}

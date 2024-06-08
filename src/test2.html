@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  
+   <div class="main">
+
+    <div id="card">
+
+        hello
+
+        <button>Click</button>
+
+    </div>
+
+   </div>
+
+    <style>
+
+#card{
+
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    display: none;
+}
+
+.main{
+
+    height: 400px;
+    width: 400px;
+    background-color: rebeccapurple;
+    
+}
+
+    </style>
+
+
+<script>
+
+ele1 = document.getElementsByClassName("main");
+ele2 =document.getElementById("card");
+
+ele1.addEventListener("click",fun());
+
+
+function fun(){
+
+   
+    ele2.style.display="block";
+
+}
+
+
+
+</script>
+
+</body>
+</html>

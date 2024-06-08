@@ -1,0 +1,187 @@
+.create-project{
+    width: 100%;
+    margin-top: 0px;
+    
+    background-color:rgb(243, 243, 245);
+}
+
+.header p{
+    
+    padding: 30px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.part2{
+    width: 100%;
+}
+
+.projectName select{
+
+    height: 60px;
+    width: 500px;
+    margin: 20px;
+    border: 1px solid rgb(151, 149, 149);
+border-radius: 10px;
+padding-left: 10px;
+}
+
+.header{
+    height: 120px;
+    width: 100%;
+    /* background-color: rgb(77, 77, 189); */
+    border-radius: 0px 0px 0px 40px;
+}
+
+.projectInfo{
+
+    background-color: #fff;
+    border: 1px solid rgb(249, 247, 247);
+    max-width: 95%;
+    height: 600px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 25px;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+
+.projectInfo button{
+    background-color: #fff;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    border: 3px solid rgb(15, 211, 15);
+    margin-top: 25px;
+    margin-right: 100px;
+    color: black;
+    cursor: pointer;
+}
+.projectInfo button:hover{
+    background-color:rgb(45, 214, 45);
+    color: #fff;
+}
+
+
+
+.projectName div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.selecttags1{
+
+    /* background-color: rebeccapurple; */
+    /* height: 100px;
+    padding-top: 80px;  
+   */
+
+   display: flex;
+}
+
+.selecttags1 input{
+ 
+
+ padding: 15px;
+ padding-right: 137px;
+ padding-left: 10px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-right: 100px;
+ border-radius: 5px;
+ border: 1px solid grey;
+
+
+}
+
+
+.selecttags2{
+
+    /* background-color: rebeccapurple; */
+    /* height: 100px;
+    padding-top: 20px;   */
+  
+    display: flex;
+    
+}
+
+.selecttags2 select{
+ 
+ padding: 15px;
+ padding-right: 175px;
+ padding-left: 10px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-right: 90px;
+ border-radius: 5px;
+ border: 1px solid grey;
+ /* background-color: rebeccapurple; */
+
+}
+.selecttags2  input{
+
+    padding-right: 140px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    margin-right: 100px;
+    border: 1px solid rgb(75, 75, 75);
+    border: 1px solid grey;
+
+}
+
+
+.selecttags3{
+
+    /* background-color: rebeccapurple; */
+    /* height: 100px;
+    padding-top: 20px;  
+   */
+
+   display: flex;
+}
+
+.selecttags3 select{
+ /*padding: 15px;
+ */padding-right: 130px;
+ padding-left: 10px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-left: 40px;
+ border-radius:5px;
+
+ 
+}
+
+.selecttags3 input{
+ /*background-color: red;
+ */padding-right: 190px;
+ padding-left: 10px;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-left: 50px;
+ margin-right: 55px;
+ border-radius: 5px;
+ border: 1px solid grey;
+ 
+}
+.reg{
+    margin-left:740px;
+    margin-top:50px
+}
+#village{
+
+    padding-right: 127px;
+}
+
+
+.selecttags1,.selecttags2,.selecttags3 p{
+
+    margin-left: 50px;
+
+}

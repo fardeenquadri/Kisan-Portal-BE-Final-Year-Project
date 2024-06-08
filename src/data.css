@@ -1,0 +1,20 @@
+.continer{
+
+    background-color: #f8f2f2;
+    font-size: 15px;
+    width: 65%;
+    padding: 20px;
+    height: 500px;
+    border-radius: 10px;
+   
+    /* background-color: rgb(72, 207, 79); */
+}
+
+.continer p{
+    /* background-color: rebeccapurple; */
+    /* margin-left: 400px; */
+}
+
+.table{
+    
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <img src="image/crop.jpg" id="img">
+    <label for="input-file">Update</label>
+    <input type="file" accept="image/jpeg, image/png, image/jpg" id="input-file">
+
+    <script>
+
+   img1 = document.getElementById("img");
+   img2 = document.getElementById("input-file");
+   img2.onChange = function(){
+
+    img1.src=URL.createObjectURL(img2.files[0]);
+
+   }
+
+
+    </script>
+</body>
+</html>
